@@ -72,7 +72,7 @@
     <h2>ALA Links</h2>
     <div class="links">
         <a href="https://diyavora253.github.io/CNS-ALA-1-/">ALA 1 - Digital Signature Verifier:</a>
-        <a href=" https://diyavora253.github.io/CNS-ALA-2/">ALA 2 - SHA Integrity Analyzer:</a>
+        <a href="https://diyavora253.github.io/CNS-ALA-2/">ALA 2 - SHA Integrity Analyzer:</a>
         <a href="https://diyavora253.github.io/CNS-ALA-3/">ALA 3 - MAC-Based Message Authentication:</a>
     </div>
 </div>
